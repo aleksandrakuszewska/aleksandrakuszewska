@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=twojnick&label=Odwiedziny%20profilu&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/twojnick?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/twojnick?color=green&logo=github">
+  <a href="https://github.com/aleksandrakuszewska?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aleksandrakuszewska?color=green&logo=github">
   </a>
 </p>
 
